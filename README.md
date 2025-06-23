@@ -2,7 +2,7 @@
 
 A custom SignalRGB component for Corsair H50/H100/H150 RGB AIO coolers pump cap LED control, featuring precise 13-LED mapping for seamless RGB synchronization.
 
-![]("https://github.com/jluizpjr/SignalRGB/blob/2194217fd8b75dec435320a7b9d0094cbc570464/SRGB-H150RGB.mp4")
+![](https://github.com/jluizpjr/SignalRGB/blob/2194217fd8b75dec435320a7b9d0094cbc570464/SRGB-H150RGB.mp4)
 ## Table of Contents
 
 - [Overview](#overview)
