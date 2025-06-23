@@ -2,6 +2,8 @@
 
 A custom SignalRGB component for Corsair H50/H100/H150 RGB AIO coolers pump cap LED control, featuring precise 13-LED mapping for seamless RGB synchronization.
 
+<video src="https://github.com/jluizpjr/SignalRGB/blob/2194217fd8b75dec435320a7b9d0094cbc570464/SRGB-H150RGB.mp4"></video>
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -30,7 +32,6 @@ This custom component enables SignalRGB to properly recognize and control the RG
 
 ## Features
 
-- 13 Individual LED Control: Each LED can be controlled independently
 - Dual Ring Architecture: Inner ring (5 LEDs) + Outer ring (8 LEDs)
 - Precise Coordinate Mapping: 21x21 grid coordinate system for accurate positioning
 - Named LED References: Each LED has a descriptive name for easy identification
@@ -64,7 +65,7 @@ This custom component enables SignalRGB to properly recognize and control the RG
    Navigate to: %USERPROFILE%\Documents\WhirlwindFX\SignalRGB\Components\
 
 3. Install the Component
-   Copy CorsairH150RGBPumpCap.json to the Components folder
+   Copy "CorsairH150RGBPumpCap - 13 LED.json" to the Components folder
 
 4. Restart SignalRGB
    Close and restart SignalRGB application
@@ -101,6 +102,8 @@ The component uses the following LED configuration:
 - LedMapping: [0,1,2,3,4,5,6,7,8,9,10,11,12]
 
 ## LED Layout
+
+![alt text]([layout.png](https://github.com/jluizpjr/SignalRGB/blob/2194217fd8b75dec435320a7b9d0094cbc570464/layout.png)?raw=true)
 
 The pump cap features a dual-ring LED arrangement:
 
